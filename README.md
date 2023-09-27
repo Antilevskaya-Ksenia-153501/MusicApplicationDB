@@ -1,20 +1,23 @@
 # MusicApplicationDB
 ## Functional requrements
-* User authorization.
+* User registration and authorization.
 * User management (CRUD).
 * Role system.
 * Logging of user actions.
 
 1. Two different users(artist and listener),all users are authorized
-2. After authorization, the listener can
+2. After authorization, the listeners can
    * select subscription type
    * create and manage their own playlists
    * discover new music
    * change information about themselves
-3. After authorization, the artist can
+   * view account details
+3. After authorization, the artists can
    * create and upload their own music to the application
    * upload, modify, and delete their own songs and albums
    * view statistics and analytics related to their content
+   * change information about themselves
+   * view account details
 4. User actions must be logged
 
 ## Entities
