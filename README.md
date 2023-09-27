@@ -7,14 +7,14 @@
 
 1. Two different users(artist and listener),all users are authorized
 2. After authorization, the listener can
-  * select subscription type
-  * create and manage their own playlists
-  * discover new music
-  * change information about themselves
+   * select subscription type
+   * create and manage their own playlists
+   * discover new music
+   * change information about themselves
 3. After authorization, the artist can
-  * create and upload their own music to the application
-  * upload, modify, and delete their own songs and albums
-  * view statistics and analytics related to their content
+   * create and upload their own music to the application
+   * upload, modify, and delete their own songs and albums
+   * view statistics and analytics related to their content
 4. User actions must be logged
 
 ## Entities
