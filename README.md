@@ -15,7 +15,6 @@
 3. After authorization, the artists can
    * create and upload their own music to the application
    * upload, modify, and delete their own songs and albums
-   * view statistics and analytics related to their content
    * change information about themselves
    * view account details
 4. User actions must be logged
